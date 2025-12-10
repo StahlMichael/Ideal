@@ -2,28 +2,28 @@
   "vacationDate": "25/01/2026-01/02/2026",
   "passengers": [
     {
-      "tempId": "1765105755201",
-      "lastName": "SASA",
-      "firstName": "AS",
-      "birthDate": "2020-01-01",
-      "passportNumber": "123",
+      "tempId": "1765370039064",
+      "lastName": "Stahl",
+      "firstName": "Michael",
+      "birthDate": "1969-06-30",
+      "passportNumber": "113456789",
       "gender": "male",
       "noFlight": false,
       "frequentFlyer": {
         "hasNumber": true,
-        "number": "123"
+        "number": "12345"
       },
       "skiPass": true,
-      "skiLevel": "4"
+      "skiLevel": "2"
     },
     {
-      "tempId": "1765105776312",
-      "lastName": "DD",
-      "firstName": "FF",
-      "birthDate": "2020-01-01",
-      "passportNumber": "23",
-      "gender": "male",
-      "noFlight": false,
+      "tempId": "1765370092528",
+      "lastName": "Stahl",
+      "firstName": "RIVKI",
+      "birthDate": "2025-12-09",
+      "passportNumber": "987",
+      "gender": "female",
+      "noFlight": true,
       "frequentFlyer": {
         "hasNumber": false,
         "number": null
@@ -34,59 +34,44 @@
   ],
   "files": [
     {
-      "name": "testkabala.jpg",
-      "type": "image/jpeg",
-      "size": 186970
+      "name": "Screenshot 2025-12-08 211853.png",
+      "type": "image/png",
+      "size": 29258
+    },
+    {
+      "name": "צילום מסך 2025-11-02 104121.png",
+      "type": "image/png",
+      "size": 91717
     }
   ],
   "rooms": {
-    "totalRooms": 3,
-    "roomType": "deluxe",
-    "deluxeFor": "some",
-    "deluxeRoomsCount": 2
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
   },
   "skiLessons": {
-    "notInterested": false,
+    "notInterested": true,
     "kids": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765105755201",
-          "name": "AS SASA"
-        }
-      ]
+      "selected": false,
+      "participants": []
     },
     "adults": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765105776312",
-          "name": "FF DD"
-        }
-      ]
+      "selected": false,
+      "participants": []
     },
     "private": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765105755201",
-          "name": "AS SASA"
-        },
-        {
-          "rowId": "1765105776312",
-          "name": "FF DD"
-        }
-      ],
-      "sameTeacher": "yes"
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
     }
   },
   "contactInfo": {
-    "address": "tzhaal 8",
-    "phone": "0527691255",
-    "email": "kenig91255@gmail.com",
-    "notes": "הגד"
+    "address": "11 GEFEN DR",
+    "phone": "0533164168",
+    "email": "a6416860@gmail.com",
+    "notes": null
   },
   "termsAccepted": true,
-  "submissionDate": "7/12/2025"
+  "submissionDate": "10/12/2025"
 }
-
