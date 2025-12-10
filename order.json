@@ -1,27 +1,12 @@
 {
-  "vacationDate": "11/01/2026-18/01/2026",
+  "vacationDate": "04/01/2026-11/01/2026",
   "passengers": [
     {
-      "tempId": "1765106812365",
-      "lastName": "SASAS",
-      "firstName": "ASASAS",
-      "birthDate": "2022-01-01",
-      "passportNumber": "23",
-      "gender": "male",
-      "noFlight": false,
-      "frequentFlyer": {
-        "hasNumber": true,
-        "number": "123"
-      },
-      "skiPass": true,
-      "skiLevel": "4"
-    },
-    {
-      "tempId": "1765106847983",
-      "lastName": "SSS",
-      "firstName": "FFFF",
-      "birthDate": "3020-02-02",
-      "passportNumber": "1234",
+      "tempId": "1764761639326",
+      "lastName": "SA",
+      "firstName": "AS",
+      "birthDate": "2025-12-03",
+      "passportNumber": "12",
       "gender": "male",
       "noFlight": false,
       "frequentFlyer": {
@@ -32,60 +17,35 @@
       "skiLevel": ""
     }
   ],
-  "files": [
-    {
-      "name": "נסיון פרחים תלת מימד (1).PNG",
-      "type": "image/png",
-      "size": 33315
-    }
-  ],
+  "files": [],
   "rooms": {
-    "totalRooms": 5,
-    "roomType": "deluxe",
-    "deluxeFor": "some",
-    "deluxeRoomsCount": 3
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
   },
   "skiLessons": {
-    "notInterested": false,
+    "notInterested": true,
     "kids": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765106812365",
-          "name": "ASASAS SASAS"
-        }
-      ]
+      "selected": false,
+      "participants": []
     },
     "adults": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765106847983",
-          "name": "FFFF SSS"
-        }
-      ]
+      "selected": false,
+      "participants": []
     },
     "private": {
-      "selected": true,
-      "participants": [
-        {
-          "rowId": "1765106812365",
-          "name": "ASASAS SASAS"
-        },
-        {
-          "rowId": "1765106847983",
-          "name": "FFFF SSS"
-        }
-      ],
-      "sameTeacher": "no"
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
     }
   },
   "contactInfo": {
     "address": "tzhaal 8",
     "phone": "0527691255",
     "email": "kenig91255@gmail.com",
-    "notes": "הערות"
+    "notes": "123"
   },
   "termsAccepted": true,
-  "submissionDate": "7/12/2025"
+  "submissionDate": "3/12/2025"
 }
