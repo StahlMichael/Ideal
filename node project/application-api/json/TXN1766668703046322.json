@@ -1,0 +1,72 @@
+{
+  "vacationDate": "01/02/2026-08/02/2026",
+  "passengers": [
+    {
+      "tempId": "1766668587853",
+      "lastName": "Stahl",
+      "firstName": "Michael",
+      "birthDate": "2000-01-01",
+      "passportNumber": "11",
+      "gender": "male",
+      "noFlight": false,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    },
+    {
+      "tempId": "1766668621207",
+      "lastName": "Stahl",
+      "firstName": "r",
+      "birthDate": "2220-01-01",
+      "passportNumber": "555",
+      "gender": "female",
+      "noFlight": false,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "WIN_20231107_10_04_46_Pro.jpg",
+      "type": "image/jpeg",
+      "size": 160138
+    }
+  ],
+  "rooms": {
+    "totalRooms": 2,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "יצחק בן נחום 2",
+    "phone": "0533164168",
+    "email": "a6416860@gmail.com",
+    "notes": null
+  },
+  "termsAccepted": true,
+  "submissionDate": "25/12/2025"
+}

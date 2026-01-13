@@ -1,0 +1,16 @@
+{
+  "id": "TXN1766565024108734",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1766565024108734",
+      "תאריך יצירה": "2025-12-24T08:30:24.108Z",
+      "JSON": "{\"vacationDate\":\"01/02/2026-08/02/2026\",\"passengers\":[{\"tempId\":\"1766564590404\",\"lastName\":\"Stahl\",\"firstName\":\"Michael\",\"birthDate\":\"1969-06-30\",\"passportNumber\":\"123456789\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":true,\"number\":\"147\"},\"skiPass\":true,\"skiLevel\":\"4\"},{\"tempId\":\"1766564841104\",\"lastName\":\"Stahl\",\"firstName\":\"Rivka\",\"birthDate\":\"2000-01-01\",\"passportNumber\":\"987654321\",\"gender\":\"female\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":true,\"number\":\"258\"},\"skiPass\":true,\"skiLevel\":\"1\"}],\"files\":[{\"name\":\"IMG_0315.JPG\",\"type\":\"image/jpeg\",\"size\":1737314},{\"name\":\"IMG_0316.JPG\",\"type\":\"image/jpeg\",\"size\":1543015}],\"rooms\":{\"totalRooms\":5,\"roomType\":\"deluxe\",\"deluxeFor\":\"some\",\"deluxeRoomsCount\":3},\"skiLessons\":{\"notInterested\":false,\"kids\":{\"selected\":true,\"participants\":[{\"rowId\":\"1766564590404\",\"name\":\"Michael Stahl\"},{\"rowId\":\"1766564841104\",\"name\":\"Rivka Stahl\"}]},\"adults\":{\"selected\":true,\"participants\":[{\"rowId\":\"1766564841104\",\"name\":\"Rivka Stahl\"},{\"rowId\":\"1766564590404\",\"name\":\"Michael Stahl\"}]},\"private\":{\"selected\":true,\"participants\":[{\"rowId\":\"1766564590404\",\"name\":\"Michael Stahl\"}],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"יצחק בן נחום 2\",\"phone\":\"0533164168\",\"email\":\"a6416860@gmail.com\",\"notes\":\"שיהיה לחיים ולשלום\"},\"termsAccepted\":true,\"submissionDate\":\"24/12/2025\"}",
+      "קישור לתשלום": "",
+      "סטטוס תשלום": "bank_transfer_pending",
+      "קבצים": "{\"method\":\"bank_transfer\",\"fileName\":\"IMG_2429.JPG\",\"fileUrl\":\"https://drive.google.com/file/d/1oMxAx5U3FIqIpJLvGh_y3pqF8tN2Pgu5/view?usp=drivesdk\",\"amount\":\"1000\",\"currency\":\"ILS\",\"ref\":\"2589852\",\"date\":\"2025-12-24\",\"timestamp\":\"2025-12-24T08:32:49.635Z\"}",
+      "": "https://drive.google.com/drive/folders/1CaShApz7cyOwMPq8ynB3RkNTXhtHDPYI"
+    }
+  }
+}

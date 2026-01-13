@@ -1,0 +1,57 @@
+{
+  "vacationDate": "01/02/2026-08/02/2026",
+  "passengers": [
+    {
+      "tempId": "1767275217173",
+      "lastName": "TEST",
+      "firstName": "TEST",
+      "birthDate": "2026-01-01",
+      "passportNumber": "111",
+      "gender": "male",
+      "noFlight": true,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "IMG_6100.JPG",
+      "type": "image/jpeg",
+      "size": 5143728
+    }
+  ],
+  "rooms": {
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "יצחק בן נחום 2",
+    "phone": "0533164168",
+    "email": "a6416860@gmail.com",
+    "notes": null
+  },
+  "termsAccepted": true,
+  "submissionDate": "1/1/2026"
+}

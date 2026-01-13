@@ -1,0 +1,51 @@
+{
+  "vacationDate": "11/01/2026-18/01/2026",
+  "passengers": [
+    {
+      "tempId": "1766665341842",
+      "lastName": "aa",
+      "firstName": "aa",
+      "birthDate": "2000-01-01",
+      "passportNumber": "1",
+      "gender": "female",
+      "noFlight": false,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [],
+  "rooms": {
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "kk",
+    "phone": "0527691249",
+    "email": "bella@idealtours.co.il",
+    "notes": null
+  },
+  "termsAccepted": true,
+  "submissionDate": "25/12/2025"
+}

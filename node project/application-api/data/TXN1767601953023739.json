@@ -1,0 +1,16 @@
+{
+  "id": "TXN1767601953023739",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1767601953023739",
+      "תאריך יצירה": "2026-01-05T08:32:33.024Z",
+      "JSON": "{\"vacationDate\":\"08/03/2026-15/03/2026\",\"passengers\":[{\"tempId\":\"1767601869267\",\"lastName\":\"LAST\",\"firstName\":\"FIRST\",\"birthDate\":\"2026-01-05\",\"passportNumber\":\"1\",\"gender\":\"male\",\"noFlight\":true,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"},{\"tempId\":\"1767601907745\",\"lastName\":\"LAST\",\"firstName\":\"LAST\",\"birthDate\":\"2026-01-05\",\"passportNumber\":\"2\",\"gender\":\"female\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"יצחק בן נחום 2\",\"phone\":\"0533164168\",\"email\":\"a6416860@gmail.com\",\"notes\":null},\"termsAccepted\":true,\"submissionDate\":\"5/1/2026\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/idealtours996/credit2000he.aspx?params=116c5602-f1cf-4b51-be83-f1d7d7157e01&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"9771997619815489\",\"approveNum\":\"5294392\",\"returnCode\":\"000\",\"customerId\":\"1767601953023739\",\"validDate\":\"0130\",\"cardType\":\"1\",\"raw\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-8\\\"?><soap:Envelope xmlns:soap=\\\"http://www.w3.org/2003/05/soap-envelope\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns:xsd=\\\"http://www.w3.org/2001/XMLSchema\\\"><soap:Body><getTokenAndApproveResponse xmlns=\\\"http://tempuri.org/\\\"><getTokenAndApproveResult>9771997619815489</getTokenAndApproveResult><approveNum>5294392</approveNum><returnCode>000</returnCode><customerId>1767601953023739</customerId><validDate>0130</validDate><cardType>1</cardType></getTokenAndApproveResponse></soap:Body></soap:Envelope>\",\"timestamp\":\"2026-01-05T08:33:22.170Z\",\"amount\":\"2.00\"}",
+      "": "https://drive.google.com/drive/folders/188-gouUM3t0YmQL13UtLxD-UUpZKm4Ld"
+    }
+  }
+}

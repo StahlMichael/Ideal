@@ -1,0 +1,16 @@
+{
+  "id": "TXN1764830675592247",
+  "status": "denied",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1764830675592247",
+      "תאריך יצירה": "2025-12-04T06:44:35.592Z",
+      "JSON": "{\"vacationDate\":\"14/12/2025-21/12/2025\",\"passengers\":[{\"tempId\":\"1764830600168\",\"lastName\":\"IS\",\"firstName\":\"S\",\"birthDate\":\"2020-01-01\",\"passportNumber\":\"123\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[{\"name\":\"רב קו.png\",\"type\":\"image/png\",\"size\":49582}],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"tzhaal 8\",\"phone\":\"0527691255\",\"email\":\"kenig91255@gmail.com\",\"notes\":\"ךל\"},\"termsAccepted\":true,\"submissionDate\":\"4/12/2025\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/CreditPCIPro_WooCommerce/credit2000he.aspx?params=21fd4ef9-ec95-4db3-b263-c63f9f8cbb8b&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"\",\"approveNum\":\"\",\"returnCode\":\"\",\"customerId\":\"\",\"validDate\":\"\",\"cardType\":\"\",\"raw\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-8\\\"?><soap:Envelope xmlns:soap=\\\"http://www.w3.org/2003/05/soap-envelope\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns:xsd=\\\"http://www.w3.org/2001/XMLSchema\\\"><soap:Body><getTokenAndApproveResponse xmlns=\\\"http://tempuri.org/\\\"><getTokenAndApproveResult /><approveNum /><returnCode /><customerId /><validDate /><cardType /></getTokenAndApproveResponse></soap:Body></soap:Envelope>\",\"timestamp\":\"2025-12-04T07:27:33.358Z\"}",
+      "": "https://drive.google.com/drive/folders/1rrgOj2C__xY8k7bLqHhvpT2Teua6xJEw"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "TXN1764242318206790",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1764242318206790",
+      "תאריך יצירה": "2025-11-27T11:18:38.206Z",
+      "JSON": "{\"vacationDate\":\"04/01/2026-11/01/2026\",\"passengers\":[{\"tempId\":\"1764240501766\",\"lastName\":\"SA\",\"firstName\":\"SA\",\"birthDate\":\"2025-11-04\",\"passportNumber\":\"123\",\"gender\":\"male\",\"noFlight\":true,\"frequentFlyer\":{\"hasNumber\":true,\"number\":\"123\"},\"skiPass\":true,\"skiLevel\":\"4\"}],\"files\":[{\"name\":\"הרב פינקוס.pdf\",\"type\":\"application/pdf\",\"size\":269943}],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"tzhaal 8\",\"phone\":\"0527691255\",\"email\":\"kenig91255@gmail.com\",\"notes\":\"גשד\"},\"termsAccepted\":true,\"submissionDate\":\"27/11/2025\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/CreditPCIPro_WooCommerce/credit2000he.aspx?params=4df4c70b-4431-4579-aca1-389b6c71a19c&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"\",\"approveNum\":\"\",\"returnCode\":\"\",\"customerId\":\"\",\"validDate\":\"\",\"cardType\":\"\",\"timestamp\":\"2025-12-03T11:10:04.695Z\"}",
+      "": "https://drive.google.com/drive/folders/1Pw2wukjUH1gscr8cIvTsaCml3oZMobvj"
+    }
+  }
+}

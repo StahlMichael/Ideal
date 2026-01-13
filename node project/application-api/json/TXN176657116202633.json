@@ -1,0 +1,51 @@
+{
+  "vacationDate": "11/01/2026-18/01/2026",
+  "passengers": [
+    {
+      "tempId": "1766571129448",
+      "lastName": "TEST",
+      "firstName": "AA",
+      "birthDate": "2000-01-01",
+      "passportNumber": "123",
+      "gender": "male",
+      "noFlight": false,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [],
+  "rooms": {
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "רבי אלעזר 45",
+    "phone": "0527691248",
+    "email": "Q3296558@gmail.com",
+    "notes": "1"
+  },
+  "termsAccepted": true,
+  "submissionDate": "24/12/2025"
+}

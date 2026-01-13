@@ -1,0 +1,16 @@
+{
+  "id": "TXN1766656280066718",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1766656280066718",
+      "תאריך יצירה": "2025-12-25T09:51:20.066Z",
+      "JSON": "{\"vacationDate\":\"11/01/2026-18/01/2026\",\"passengers\":[{\"tempId\":\"1766656207271\",\"lastName\":\"Stahl\",\"firstName\":\"Michael\",\"birthDate\":\"2000-01-01\",\"passportNumber\":\"11\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"יצחק בן נחום 2\",\"phone\":\"0533164168\",\"email\":\"a6416860@gmail.com\",\"notes\":null},\"termsAccepted\":true,\"submissionDate\":\"25/12/2025\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/idealtours996/credit2000he.aspx?params=905200f8-ed95-482e-bec2-f3db5011c13f&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"9639413012419455\",\"approveNum\":\"0088056\",\"returnCode\":\"000\",\"customerId\":\"1766656280066718\",\"validDate\":\"0526\",\"cardType\":\"2\",\"raw\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-8\\\"?><soap:Envelope xmlns:soap=\\\"http://www.w3.org/2003/05/soap-envelope\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns:xsd=\\\"http://www.w3.org/2001/XMLSchema\\\"><soap:Body><getTokenAndApproveResponse xmlns=\\\"http://tempuri.org/\\\"><getTokenAndApproveResult>9639413012419455</getTokenAndApproveResult><approveNum>0088056</approveNum><returnCode>000</returnCode><customerId>1766656280066718</customerId><validDate>0526</validDate><cardType>2</cardType></getTokenAndApproveResponse></soap:Body></soap:Envelope>\",\"timestamp\":\"2025-12-25T09:53:57.456Z\"}",
+      "": "https://drive.google.com/drive/folders/1IXW5Z0E0XEjDfRNG4mOnaCFNqOh5zW-n"
+    }
+  }
+}

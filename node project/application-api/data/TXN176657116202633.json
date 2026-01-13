@@ -1,0 +1,16 @@
+{
+  "id": "TXN176657116202633",
+  "status": "denied",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN176657116202633",
+      "תאריך יצירה": "2025-12-24T10:12:42.026Z",
+      "JSON": "{\"vacationDate\":\"11/01/2026-18/01/2026\",\"passengers\":[{\"tempId\":\"1766571129448\",\"lastName\":\"TEST\",\"firstName\":\"AA\",\"birthDate\":\"2000-01-01\",\"passportNumber\":\"123\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"רבי אלעזר 45\",\"phone\":\"0527691248\",\"email\":\"Q3296558@gmail.com\",\"notes\":\"1\"},\"termsAccepted\":true,\"submissionDate\":\"24/12/2025\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/idealtours996/credit2000he.aspx?params=49802207-e942-4192-84af-db68c30aeca4&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"9137242302451984\",\"approveNum\":\"0343830\",\"returnCode\":\"000\",\"customerId\":\"176657116202633\",\"validDate\":\"0329\",\"cardType\":\"2\",\"raw\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-8\\\"?><soap:Envelope xmlns:soap=\\\"http://www.w3.org/2003/05/soap-envelope\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns:xsd=\\\"http://www.w3.org/2001/XMLSchema\\\"><soap:Body><getTokenAndApproveResponse xmlns=\\\"http://tempuri.org/\\\"><getTokenAndApproveResult>9137242302451984</getTokenAndApproveResult><approveNum>0343830</approveNum><returnCode>000</returnCode><customerId>176657116202633</customerId><validDate>0329</validDate><cardType>2</cardType></getTokenAndApproveResponse></soap:Body></soap:Envelope>\",\"timestamp\":\"2025-12-24T10:13:58.732Z\"}",
+      "": "https://drive.google.com/drive/folders/1lMOPW5Y9uuXmauott8BNz8eqqBdhy77I"
+    }
+  }
+}

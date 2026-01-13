@@ -1,0 +1,57 @@
+{
+  "vacationDate": "25/01/2026-01/02/2026",
+  "passengers": [
+    {
+      "tempId": "1766391753283",
+      "lastName": "TEST",
+      "firstName": "TEST",
+      "birthDate": "2020-12-10",
+      "passportNumber": "1234",
+      "gender": "male",
+      "noFlight": false,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "102568587.pdf",
+      "type": "application/pdf",
+      "size": 40228
+    }
+  ],
+  "rooms": {
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "רבי אלעזר 45",
+    "phone": "0527691248",
+    "email": "bella@idealtours.co.il",
+    "notes": null
+  },
+  "termsAccepted": true,
+  "submissionDate": "22/12/2025"
+}

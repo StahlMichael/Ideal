@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (Windows Forms)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/WorkBench/bin/Debug/net8.0-windows/WorkBench.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/WorkBench",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        }
+    ]
+}

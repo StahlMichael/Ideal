@@ -1,0 +1,16 @@
+{
+  "id": "TXN1765966503048223",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1765966503048223",
+      "תאריך יצירה": "2025-12-17T10:15:03.048Z",
+      "JSON": "{\"vacationDate\":\"18/01/2026-25/01/2026\",\"passengers\":[{\"tempId\":\"1765965674931\",\"lastName\":\"AA\",\"firstName\":\"AA\",\"birthDate\":\"2025-12-17\",\"passportNumber\":\"123\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"tzhaal 8\",\"phone\":\"0527691255\",\"email\":\"kenig91255@gmail.com\",\"notes\":null},\"termsAccepted\":true,\"submissionDate\":\"17/12/2025\"}",
+      "קישור לתשלום": "",
+      "סטטוס תשלום": "pending",
+      "קבצים": "",
+      "": "https://drive.google.com/drive/folders/1N8hI713VUoL9p3Ge6hFzycBE0CosUQ6m"
+    }
+  }
+}

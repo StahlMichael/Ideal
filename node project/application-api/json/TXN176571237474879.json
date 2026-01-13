@@ -1,0 +1,72 @@
+{
+  "vacationDate": "25/01/2026-01/02/2026",
+  "passengers": [
+    {
+      "tempId": "1765712081208",
+      "lastName": "LAUFER",
+      "firstName": "BEN-ZION",
+      "birthDate": "1955-05-26",
+      "passportNumber": "35143251",
+      "gender": "male",
+      "noFlight": true,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    },
+    {
+      "tempId": "1765712119350",
+      "lastName": "LAUFER",
+      "firstName": "MIRIAM",
+      "birthDate": "1955-07-19",
+      "passportNumber": "41099168",
+      "gender": "female",
+      "noFlight": true,
+      "frequentFlyer": {
+        "hasNumber": false,
+        "number": null
+      },
+      "skiPass": false,
+      "skiLevel": ""
+    }
+  ],
+  "files": [
+    {
+      "name": "ציוד משרד בלה.pdf",
+      "type": "application/pdf",
+      "size": 1864767
+    }
+  ],
+  "rooms": {
+    "totalRooms": 1,
+    "roomType": "standard",
+    "deluxeFor": null,
+    "deluxeRoomsCount": null
+  },
+  "skiLessons": {
+    "notInterested": true,
+    "kids": {
+      "selected": false,
+      "participants": []
+    },
+    "adults": {
+      "selected": false,
+      "participants": []
+    },
+    "private": {
+      "selected": false,
+      "participants": [],
+      "sameTeacher": null
+    }
+  },
+  "contactInfo": {
+    "address": "ריינס 18",
+    "phone": "053586392",
+    "email": "speclinic@gmail.com",
+    "notes": "חדר קבוע 207"
+  },
+  "termsAccepted": true,
+  "submissionDate": "14/12/2025"
+}

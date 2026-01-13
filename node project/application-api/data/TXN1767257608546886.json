@@ -1,0 +1,16 @@
+{
+  "id": "TXN1767257608546886",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1767257608546886",
+      "תאריך יצירה": "2026-01-01T08:53:28.546Z",
+      "JSON": "{\"vacationDate\":\"22/02/2026-01/03/2026\",\"passengers\":[{\"tempId\":\"1767257528239\",\"lastName\":\"YOSSI\",\"firstName\":\"TEST\",\"birthDate\":\"2026-01-01\",\"passportNumber\":\"123456789\",\"gender\":\"male\",\"noFlight\":true,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"}],\"files\":[{\"name\":\"IMG_6100.JPG\",\"type\":\"image/jpeg\",\"size\":5143728}],\"rooms\":{\"totalRooms\":1,\"roomType\":\"deluxe\",\"deluxeFor\":\"all\",\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":true,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":false,\"participants\":[],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"2 יצחק בן נחום\",\"phone\":\"0533164168\",\"email\":\"a6416860@gmail.com\",\"notes\":null},\"termsAccepted\":true,\"submissionDate\":\"1/1/2026\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/idealtours996/credit2000he.aspx?params=d8ae59eb-36fa-48d7-a309-cc56bab1bf20&css=",
+      "סטטוס תשלום": "pending",
+      "קבצים": "",
+      "": "https://drive.google.com/drive/folders/1hsaDRLpVn6ktCvqPj98V-7YQV4wv_VXK"
+    }
+  }
+}

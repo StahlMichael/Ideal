@@ -1,0 +1,16 @@
+{
+  "id": "TXN1767604557553291",
+  "status": "accepted",
+  "data": {
+    "success": true,
+    "data": {
+      "פרטים": "TXN1767604557553291",
+      "תאריך יצירה": "2026-01-05T09:15:57.553Z",
+      "JSON": "{\"vacationDate\":\"08/03/2026-15/03/2026\",\"passengers\":[{\"tempId\":\"1767604415372\",\"lastName\":\"TEST\",\"firstName\":\"DOV\",\"birthDate\":\"2026-01-05\",\"passportNumber\":\"1\",\"gender\":\"male\",\"noFlight\":false,\"frequentFlyer\":{\"hasNumber\":false,\"number\":null},\"skiPass\":false,\"skiLevel\":\"\"},{\"tempId\":\"1767604468662\",\"lastName\":\"TEST\",\"firstName\":\"GILA\",\"birthDate\":\"2025-12-30\",\"passportNumber\":\"2\",\"gender\":\"female\",\"noFlight\":true,\"frequentFlyer\":{\"hasNumber\":true,\"number\":\"12\"},\"skiPass\":true,\"skiLevel\":\"4\"}],\"files\":[{\"name\":\"IMG_6109.JPG\",\"type\":\"image/jpeg\",\"size\":170719},{\"name\":\"IMG_6108.JPG\",\"type\":\"image/jpeg\",\"size\":168273}],\"rooms\":{\"totalRooms\":1,\"roomType\":\"standard\",\"deluxeFor\":null,\"deluxeRoomsCount\":null},\"skiLessons\":{\"notInterested\":false,\"kids\":{\"selected\":false,\"participants\":[]},\"adults\":{\"selected\":false,\"participants\":[]},\"private\":{\"selected\":true,\"participants\":[{\"rowId\":\"1767604415372\",\"name\":\"DOV TEST\"}],\"sameTeacher\":null}},\"contactInfo\":{\"address\":\"יצחק בן נחום 2\",\"phone\":\"0533164168\",\"email\":\"a6416860@gmail.com\",\"notes\":null},\"termsAccepted\":true,\"submissionDate\":\"5/1/2026\"}",
+      "קישור לתשלום": "https://www.credit2000.co.il/pci_emv_ver4/redirect/idealtours996/credit2000he.aspx?params=3429b3c6-3c14-4a72-a972-f9b3b46fbe91&css=",
+      "סטטוס תשלום": "paid",
+      "קבצים": "{\"token\":\"9771997619815489\",\"approveNum\":\"5572600\",\"returnCode\":\"000\",\"customerId\":\"1767604557553291\",\"validDate\":\"0130\",\"cardType\":\"1\",\"raw\":\"<?xml version=\\\"1.0\\\" encoding=\\\"utf-8\\\"?><soap:Envelope xmlns:soap=\\\"http://www.w3.org/2003/05/soap-envelope\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\" xmlns:xsd=\\\"http://www.w3.org/2001/XMLSchema\\\"><soap:Body><getTokenAndApproveResponse xmlns=\\\"http://tempuri.org/\\\"><getTokenAndApproveResult>9771997619815489</getTokenAndApproveResult><approveNum>5572600</approveNum><returnCode>000</returnCode><customerId>1767604557553291</customerId><validDate>0130</validDate><cardType>1</cardType></getTokenAndApproveResponse></soap:Body></soap:Envelope>\",\"timestamp\":\"2026-01-05T09:16:55.251Z\",\"amount\":\"1.5.00\"}",
+      "": "https://drive.google.com/drive/folders/1-rghD7xhdXKmQnSm8myqSnmFU2AZUJ6X"
+    }
+  }
+}
